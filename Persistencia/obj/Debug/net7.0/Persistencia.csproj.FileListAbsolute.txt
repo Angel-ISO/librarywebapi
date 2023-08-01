@@ -1,0 +1,17 @@
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/bin/Debug/net7.0/Persistencia.deps.json
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/bin/Debug/net7.0/Persistencia.runtimeconfig.json
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/bin/Debug/net7.0/Persistencia.dll
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/bin/Debug/net7.0/Persistencia.pdb
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/bin/Debug/net7.0/Dominio.dll
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/bin/Debug/net7.0/Dominio.pdb
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.csproj.AssemblyReference.cache
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfoInputs.cache
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfo.cs
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CoreCompileInputs.cache
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CopyComplete
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.dll
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.pdb
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/Persistencia.genruntimeconfig.cache
+/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll

@@ -5253,19 +5253,19 @@
     ]
   },
   "packageFolders": {
-    "/home/apolm01-007/.nuget/packages/": {}
+    "/home/angelgabriel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolm01-007/Documents/librarywebapi/Persistencia/Persistencia.csproj",
+      "projectUniqueName": "/home/angelgabriel/Documentos/librarywebapi/Persistencia/Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "/home/apolm01-007/Documents/librarywebapi/Persistencia/Persistencia.csproj",
-      "packagesPath": "/home/apolm01-007/.nuget/packages/",
-      "outputPath": "/home/apolm01-007/Documents/librarywebapi/Persistencia/obj/",
+      "projectPath": "/home/angelgabriel/Documentos/librarywebapi/Persistencia/Persistencia.csproj",
+      "packagesPath": "/home/angelgabriel/.nuget/packages/",
+      "outputPath": "/home/angelgabriel/Documentos/librarywebapi/Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolm01-007/.nuget/NuGet/NuGet.Config"
+        "/home/angelgabriel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5277,8 +5277,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolm01-007/Documents/librarywebapi/Dominio/Dominio.csproj": {
-              "projectPath": "/home/apolm01-007/Documents/librarywebapi/Dominio/Dominio.csproj"
+            "/home/angelgabriel/Documentos/librarywebapi/Dominio/Dominio.csproj": {
+              "projectPath": "/home/angelgabriel/Documentos/librarywebapi/Dominio/Dominio.csproj"
             }
           }
         }

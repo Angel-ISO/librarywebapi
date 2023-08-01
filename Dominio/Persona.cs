@@ -9,7 +9,7 @@ public class Persona : BaseEntityA
 
     public string? NamePerson { get; set; }
     public string ?LastName { get; set; }
-    public string ? Age { get; set; }
+    public int  Age { get; set; }
     public int IdProvincia { get; set; }
     public Provincia ? Provincia { get; set; }
     public int IdTypePerson { get; set; }
