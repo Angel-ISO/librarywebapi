@@ -9,6 +9,7 @@
       "LibraryApi/1.0.0": {
         "dependencies": {
           "Aplicacion": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.9",
           "Microsoft.AspNetCore.OpenApi": "7.0.9",
           "Microsoft.EntityFrameworkCore.Design": "7.0.9",
@@ -969,6 +970,7 @@
       "Aplicacion/1.0.0": {
         "dependencies": {
           "Dominio": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
           "Persistencia": "1.0.0"
         },
         "runtime": {

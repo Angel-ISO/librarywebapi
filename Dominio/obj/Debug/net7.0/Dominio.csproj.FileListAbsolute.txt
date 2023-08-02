@@ -10,3 +10,15 @@
 /home/angelgabriel/Documentos/librarywebapi/Dominio/obj/Debug/net7.0/refint/Dominio.dll
 /home/angelgabriel/Documentos/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.pdb
 /home/angelgabriel/Documentos/librarywebapi/Dominio/obj/Debug/net7.0/ref/Dominio.dll
+/home/apolm01-007/Documents/librarywebapi/Dominio/bin/Debug/net7.0/Dominio.deps.json
+/home/apolm01-007/Documents/librarywebapi/Dominio/bin/Debug/net7.0/Dominio.dll
+/home/apolm01-007/Documents/librarywebapi/Dominio/bin/Debug/net7.0/Dominio.pdb
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.csproj.AssemblyReference.cache
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfoInputs.cache
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfo.cs
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.dll
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/refint/Dominio.dll
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/Dominio.pdb
+/home/apolm01-007/Documents/librarywebapi/Dominio/obj/Debug/net7.0/ref/Dominio.dll

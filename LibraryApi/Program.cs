@@ -1,3 +1,5 @@
+using Aplicacion.Paises;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistencia;
 
@@ -18,6 +20,8 @@ builder.Services.AddDbContext<LibraryContext>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+builder.Services.AddMediatR(typeof(Consultas.Manejador).Assembly);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

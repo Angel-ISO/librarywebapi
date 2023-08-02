@@ -1881,6 +1881,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Dominio": "1.0.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
           "Persistencia": "1.0.0"
         },
         "compile": {
@@ -6034,6 +6035,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Aplicacion >= 1.0.0",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.9",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
@@ -6042,19 +6044,19 @@
     ]
   },
   "packageFolders": {
-    "/home/angelgabriel/.nuget/packages/": {}
+    "/home/apolm01-007/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/angelgabriel/Documentos/librarywebapi/LibraryApi/LibraryApi.csproj",
+      "projectUniqueName": "/home/apolm01-007/Documents/librarywebapi/LibraryApi/LibraryApi.csproj",
       "projectName": "LibraryApi",
-      "projectPath": "/home/angelgabriel/Documentos/librarywebapi/LibraryApi/LibraryApi.csproj",
-      "packagesPath": "/home/angelgabriel/.nuget/packages/",
-      "outputPath": "/home/angelgabriel/Documentos/librarywebapi/LibraryApi/obj/",
+      "projectPath": "/home/apolm01-007/Documents/librarywebapi/LibraryApi/LibraryApi.csproj",
+      "packagesPath": "/home/apolm01-007/.nuget/packages/",
+      "outputPath": "/home/apolm01-007/Documents/librarywebapi/LibraryApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/angelgabriel/.nuget/NuGet/NuGet.Config"
+        "/home/apolm01-007/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6066,8 +6068,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/angelgabriel/Documentos/librarywebapi/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/home/angelgabriel/Documentos/librarywebapi/Aplicacion/Aplicacion.csproj"
+            "/home/apolm01-007/Documents/librarywebapi/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/home/apolm01-007/Documents/librarywebapi/Aplicacion/Aplicacion.csproj"
             }
           }
         }
@@ -6082,6 +6084,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[11.1.0, )"
+          },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[7.0.9, )"
